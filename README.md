@@ -1,5 +1,5 @@
 # EasyCharts
-> Progetto sviluppato in **C++** e **Qt framework**, in collaborazione con [@SamuelScara](https://github.com/SamuelScara).
+> Progetto sviluppato in **C++** e **Qt framework**, in collaborazione con [@dvdbaggio](https://github.com/dvdbaggio).
 
 EasyCharts è un programma software facile ed intuitivo, in grado di consentire ad ogni utente una semplice gestione di dati numerici - rappresentati in forma tabellare - e da essi produrre nove grafici distinti.
 
@@ -15,9 +15,9 @@ Le features di cui il programma dispone sono:
 ## Feedback del professore
 ```plain
 Feedback Progetto di Programmazione ad Oggetti
-Studente: Baggio Davide
+Studente: Samuel Scarabottolo
 Valutazione del progetto: eccellente
-Voto finale dell'esame: 30
+Voto finale dell'esame: 27
 
 Vincoli obbligatori
 + Soddisfatti
