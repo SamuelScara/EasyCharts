@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/pie-chart.png</file>
+        <file>Icons/bar.png</file>
+        <file>Icons/line.png</file>
+        <file>Icons/pie.png</file>
+        <file>Icons/scatter.png</file>
+        <file>Icons/spline.png</file>
+        <file>Icons/stkbar.png</file>
+        <file>Icons/close.png</file>
+        <file>Icons/new.png</file>
+        <file>Icons/open.png</file>
+        <file>Icons/save.png</file>
+        <file>Icons/column.png</file>
+        <file>Icons/delete-column.png</file>
+	<file>Icons/delete-column-wb.png</file>
+        <file>Icons/delete-row.png</file>
+	<file>Icons/delete-row-wb.png</file>
+        <file>Icons/row.png</file>
+        <file>Icons/image.png</file>
+        <file>Icons/ChartApp.png</file>
+        <file>Icons/donut.png</file>
+        <file>Icons/column_left.png</file>
+        <file>Icons/column_right.png</file>
+        <file>Icons/row_sopra.png</file>
+        <file>Icons/row_sotto.png</file>
+        <file>Icons/h_bar.png</file>
+        <file>Icons/h_stkbar.png</file>
+        <file>Icons/edit_col.png</file>
+        <file>Icons/edit_row.png</file>
+        <file>Icons/EasyCharts.png</file>
+    </qresource>
+</RCC>

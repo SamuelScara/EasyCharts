@@ -1,0 +1,95 @@
+<Graph>
+ <Columns number="12">
+  <Col value="Gennaio 2021"/>
+  <Col value="Febbraio 2021"/>
+  <Col value="Marzo 2021"/>
+  <Col value="Aprile 2021"/>
+  <Col value="Maggio 2021"/>
+  <Col value="Giugno 2021"/>
+  <Col value="Luglio 2021"/>
+  <Col value="Agosto 2021"/>
+  <Col value="Settembre 2021"/>
+  <Col value="Ottobre 2021"/>
+  <Col value="Novembre 2021"/>
+  <Col value="Dicembre 2021"/>
+ </Columns>
+ <Rows number="5">
+  <Row value="DOW J"/>
+  <Row value="FTSEMIB.MI"/>
+  <Row value="AAPL"/>
+  <Row value="BA"/>
+  <Row value="DIS"/>
+ </Rows>
+ <Data>
+  <Row>
+   <Num value="2300"/>
+   <Num value="284.89"/>
+   <Num value="2481.9"/>
+   <Num value="3741.34"/>
+   <Num value="8902.12"/>
+   <Num value="2342.3"/>
+   <Num value="2329.1"/>
+   <Num value="2940.29"/>
+   <Num value="1202.1"/>
+   <Num value="10734.4"/>
+   <Num value="102.21"/>
+   <Num value="2314.37"/>
+  </Row>
+  <Row>
+   <Num value="1034.84"/>
+   <Num value="291.98"/>
+   <Num value="2921.56"/>
+   <Num value="3418.71"/>
+   <Num value="102.14"/>
+   <Num value="342.91"/>
+   <Num value="9234.48"/>
+   <Num value="15391.1"/>
+   <Num value="543.19"/>
+   <Num value="623.23"/>
+   <Num value="3334.35"/>
+   <Num value="3325.23"/>
+  </Row>
+  <Row>
+   <Num value="2414.11"/>
+   <Num value="979.32"/>
+   <Num value="3242.17"/>
+   <Num value="2313.9"/>
+   <Num value="1214.55"/>
+   <Num value="3256.55"/>
+   <Num value="2495.83"/>
+   <Num value="753.9"/>
+   <Num value="214.33"/>
+   <Num value="756.12"/>
+   <Num value="3259.14"/>
+   <Num value="3599.56"/>
+  </Row>
+  <Row>
+   <Num value="1298.32"/>
+   <Num value="846.12"/>
+   <Num value="3531.19"/>
+   <Num value="1231.78"/>
+   <Num value="4214.56"/>
+   <Num value="3851.78"/>
+   <Num value="3521.4"/>
+   <Num value="3020.8"/>
+   <Num value="3523.19"/>
+   <Num value="3535.14"/>
+   <Num value="3599.46"/>
+   <Num value="3959.1"/>
+  </Row>
+  <Row>
+   <Num value="385.67"/>
+   <Num value="7809.9"/>
+   <Num value="1339.56"/>
+   <Num value="2012.1"/>
+   <Num value="2470.45"/>
+   <Num value="424.87"/>
+   <Num value="1056.34"/>
+   <Num value="2471.24"/>
+   <Num value="3506.19"/>
+   <Num value="4367.29"/>
+   <Num value="4695.76"/>
+   <Num value="346.79"/>
+  </Row>
+ </Data>
+</Graph>
